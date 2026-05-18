@@ -2,9 +2,7 @@
 # THE NEXTPOS </div>
 ## Cloud based fully funcional POS system
 
-This contains everything you need to run your app locally.
-
-View your app: https://ai.studio/apps/a2fc074e-2b98-47fc-a24b-8acc1a346b14
+nexposcloud.netlify.app
 
 ## Run Locally
 
