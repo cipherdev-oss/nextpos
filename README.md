@@ -1,5 +1,5 @@
-
-# THE NEXTPOS
+<div align: center>
+# THE NEXTPOS </div>
 ## Cloud based fully funcional POS system
 
 This contains everything you need to run your app locally.
