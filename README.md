@@ -2,7 +2,7 @@
 # THE NEXTPOS </div>
 ## Cloud based fully funcional POS system
 
-nexposcloud.netlify.app
+https://nextposcloud.netlify.app/
 
 ## Run Locally
 
