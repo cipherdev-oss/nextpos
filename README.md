@@ -1,4 +1,4 @@
-<div align: center>
+
 # THE NEXTPOS </div>
 ## Cloud based fully funcional POS system
 
